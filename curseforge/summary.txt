@@ -1,1 +1,1 @@
-Makes Prion Infection's mobs much cheaper to draw, with no change to how they look: a crowd of them went from 95 to 360 FPS.
+Increases performance up to 3 times the FPS for the Prion Mod.

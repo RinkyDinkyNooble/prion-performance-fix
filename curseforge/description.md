@@ -6,7 +6,7 @@ A companion mod for Prion Infection: Whispers From Within 2.0.93 (Forge 1.20.1, 
 
 Same spot and settings, without the patch and then with it. The FPS counter is in the top left.
 
-A crowd of about 40 Prion mobs: **95 FPS** average without, **360 FPS** with.
+A crowd of Prion mobs: **95 FPS** average without, **360 FPS** with.
 
 Without:
 

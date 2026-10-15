@@ -5,6 +5,11 @@
   "plugin": "com.rinkynooble.prionperformancefix.MixinPlugin",
   "compatibilityLevel": "JAVA_17",
   "refmap": "prionperformancefix.refmap.json",
+  "mixins": [
+    "CystProjectileEntityMixin",
+    "InfEntityMixin",
+    "LevelMixin"
+  ],
   "client": [
     "client.DynamicTextureHandlerMixin",
     "client.HierarchicalModelMixin",
